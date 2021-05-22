@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br/>
 
-## 🚀Languages and Tools:
+## 🚀 Languages and Tools:
 
 <br/>
 <p align="center">
